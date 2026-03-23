@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Samvaad Banner" width="420"/>
+  <img src="./assets/banner.svg" alt="Samvaad Banner" width="420"/>
 </p>
 
 # 🗣️ Samvaad – संवाद | Video Calling Platform
